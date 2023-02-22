@@ -1,2 +1,2 @@
-# whitewizard
-snow day calculator
+# white wizard
+accurate snow day calculator
